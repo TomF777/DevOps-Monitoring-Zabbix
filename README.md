@@ -111,7 +111,8 @@ sudo systemctl enable zabbix-agent2
 
 Examples of Agent2 host config in Zabbix UI:
 
-<img src="./docs/host-config-rpi.png" alt="Alt Text" width="400"> <img src="./docs/host-config-lubuntu.png" alt="Alt Text" width="400">
+<img src="./docs/host-config-rpi.png" alt="Alt Text" width="600">
+<img src="./docs/host-config-lubuntu.png" alt="Alt Text" width="600">
 
 <br>
 
