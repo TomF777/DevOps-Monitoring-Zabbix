@@ -192,7 +192,7 @@ If everything runs properly, there should be metrics available:
 <br>
 
 Next, configure host in Zabbix UI for Apache HTTP monitoring:
-<img src="./docs/host-config-apache-webserver.png" alt="Alt Text" width="500">
+<img src="./docs/host-config-apache-webserver.png" alt="Alt Text" width="700">
 
 Dedicated dashboards for Apache server monitoring are created under `Dashboards/ApacheDashboard`:
 
@@ -234,9 +234,9 @@ sudo systemctl enable nginx
 
 Next, configure Nginx host in Zabbix UI:
 
-<img src="./docs/host-config-nginx1.png" alt="Alt Text" width="600">
+<img src="./docs/host-config-nginx1.png" alt="Alt Text" width="700">
 
-<img src="./docs/host-config-nginx2.png" alt="Alt Text" width="600">
+<img src="./docs/host-config-nginx2.png" alt="Alt Text" width="700">
 
 <br>
 
@@ -331,7 +331,7 @@ Now it is verified that it is possible to authenticate to the server running the
 
 Next, configure SNMP host in Zabbix UI:
 
-<img src="./docs/host-config-snmp.png" alt="Alt Text" width="600">
+<img src="./docs/host-config-snmp.png" alt="Alt Text" width="700">
 
 <br>
 
